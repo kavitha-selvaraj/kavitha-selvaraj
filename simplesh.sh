@@ -1,3 +1,4 @@
+echo "missing av2 and swathi"
 echo "enter your name"
 read name
 echo "your name is $name"
